@@ -1,2 +1,0 @@
-# Weatherapp
-Flutter Weather App
